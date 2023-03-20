@@ -28,8 +28,8 @@ As a versatile creator specialising in web development, graphic design, and phot
 <br />
 
 ### 📈 Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackbmc)](https://github.com/Jackbmc/github-readme-stats)
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackbmc&layout=compact&theme=bear)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackbmc&theme=gruvbox)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackbmc&theme=gruvbox)
 
 
 
