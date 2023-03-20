@@ -16,7 +16,7 @@ As a versatile creator specialising in web development, graphic design, and phot
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
 <img align="left" alt="XCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
@@ -28,8 +28,8 @@ As a versatile creator specialising in web development, graphic design, and phot
 <br />
 
 ### 📈 Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackbmc&theme=gruvbox)
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackbmc&theme=gruvbox)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackbmc&theme=onedark)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackbmc&theme=onedark)
 
 
 
