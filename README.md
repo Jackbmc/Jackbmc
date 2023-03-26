@@ -32,6 +32,7 @@ As a versatile creator specialising in web development, graphic design, and phot
 ### 📈 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackbmc&theme=radical)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackbmc&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=CyberTapir&theme=radical&hide_border=true)<br/>
 
 
 
