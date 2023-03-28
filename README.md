@@ -34,8 +34,8 @@ As a versatile creator specialising in web development, graphic design, and phot
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackbmc&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jackbmc&theme=radical&hide_border=true)<br/>
 
-
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jackbmc&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <details>
  <summary><h3>🧭 Jack's Journey</h3></summary>
