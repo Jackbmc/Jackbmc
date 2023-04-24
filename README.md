@@ -37,11 +37,5 @@ As a versatile creator specialising in web development, graphic design, and phot
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jackbmc&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<details>
- <summary><h3>🧭 Jack's Journey</h3></summary>
-   I began my coding adventure around the age of 11 or 12, and since then, I've explored various aspects of technology and creativity. I'm familiar with web development languages such as HTML, CSS, and JavaScript, and I also have experience with Python, which has helped me solve a variety of problems.
-
-In addition to my programming skills, I have a passion for graphic design, which I've used to create visually appealing projects. I've also ventured into game design, learning C# to develop engaging and immersive experiences. Beyond the digital realm, I've dabbled in 3D modeling and photography, further broadening my creative skill set.
-
 [website]: https://jackbmc.com
 [youtube]: https://youtube.com/jackbmc
