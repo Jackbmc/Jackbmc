@@ -36,6 +36,6 @@ As a versatile creator specialising in web development, graphic design, and phot
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jackbmc&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
+<details>
 [website]: https://jackbmc.com
 [youtube]: https://youtube.com/jackbmc
