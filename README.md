@@ -39,4 +39,4 @@ As a versatile creator specialising in web development, graphic design, and phot
 
 https://jackbmc.com
 
-https://youtube.com/jackbmc
+https://youtube.com/@jackbmc
